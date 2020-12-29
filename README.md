@@ -1,6 +1,9 @@
 # vsc-settings-sync
 Sync settings for visual studio code
 
+[Use Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+
 ```json
 {
   "sync.gist": "45c449ec865b805febeb0c3b43e5a8b9",
