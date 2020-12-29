@@ -7,6 +7,7 @@ Sync settings for visual studio code
 ```json
 {
   "sync.gist": "45c449ec865b805febeb0c3b43e5a8b9",
+  "python.languageServer": "Pylance",
   "sync.autoDownload": false,
   "sync.autoUpload": false,
   "sync.forceDownload": false,
